@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.exe
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.deps.json
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.runtimeconfig.json
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.runtimeconfig.dev.json
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.dll
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\bin\Debug\netcoreapp3.0\PadraoPrototype.pdb
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\obj\Debug\netcoreapp3.0\PadraoPrototype.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\obj\Debug\netcoreapp3.0\PadraoPrototype.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\obj\Debug\netcoreapp3.0\PadraoPrototype.AssemblyInfo.cs
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\obj\Debug\netcoreapp3.0\PadraoPrototype.dll
+C:\Users\filip\source\repos\PadraoPrototype\PadraoPrototype\obj\Debug\netcoreapp3.0\PadraoPrototype.pdb
